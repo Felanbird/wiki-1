@@ -1,6 +1,6 @@
 # Status Bars Configuration
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Status-Bars-example.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Status-Bars-example.png)
 
 Draws status bars next to players inventory showing current HP & Prayer and healing amounts
 

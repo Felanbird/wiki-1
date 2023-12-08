@@ -1,6 +1,6 @@
 # GPU Configuration
 
-![Example of anti-aliasing](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/GPU-aa.png)
+![Example of anti-aliasing](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/GPU-aa.png)
 
 ## Settings
 

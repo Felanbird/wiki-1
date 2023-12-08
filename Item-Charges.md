@@ -2,7 +2,7 @@
 
 Displays the number of remaining charges for various items.
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Item-Charges-overlay.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Item-Charges-overlay.png)
 
 ## Settings
 

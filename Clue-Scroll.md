@@ -11,4 +11,4 @@
 
 Toggles showing an arrow, pointing you in the direction of where to dig and who to talk to
 
-![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Clue-Scroll-hint-arrows.gif)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Clue-Scroll-hint-arrows.gif)

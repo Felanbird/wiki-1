@@ -1,22 +1,22 @@
 # Loot Tracker
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Loot-Tracker-panel.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Loot-Tracker-panel.png)
 
 The Loot Tracker plugin adds a sidebar panel which tracks the contents and value of items dropped while killing monsters, other players, and drops from some other activities such as Barrows, Chambers of Xeric, Theatre of Blood, and Clue Scrolls.
 
 ## Usage
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Loot-Tracker-chevron.png) Collapse loot
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Loot-Tracker-chevron.png) Collapse loot
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Loot-Tracker-grouping.png) Group loot by source or individual kill.
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Loot-Tracker-grouping.png) Group loot by source or individual kill.
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Loot-Tracker-hide.png) Show/Hide hidden loot
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Loot-Tracker-hide.png) Show/Hide hidden loot
 
 To show/hide individual items or all loot from a specific NPC, use right-click:
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Loot-Tracker-right-click.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Loot-Tracker-right-click.png)
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Loot-Tracker-toggle.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Loot-Tracker-toggle.png)
 
 
 ## RuneLite Account
@@ -28,7 +28,7 @@ The loot can also be reviewed on the website at https://runelite.net/account/loo
 
 # Loot Tracker Configuration
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Loot-Tracker-config.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Loot-Tracker-config.png)
 
 ## Ignored Entries
 

@@ -1,14 +1,14 @@
 ## HiScore Configuration
 Displays a button to open the Hiscore panel.
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/HiScore-panel.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/HiScore-panel.png)
 
 ## Features
 ### Self-lookup
 
 Double-click the magnifying glass in the search bar to lookup your own character.
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/HiScore-magnifying-glass.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/HiScore-magnifying-glass.png)
 
 ### HiScores for different game modes
 
@@ -18,14 +18,14 @@ Click the tabs along the top to switch between different game modes such as Iron
 
 Hover over any stat to see more details. For example, a breakdown of the cluescrolls by type.
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/HiScore-clues.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/HiScore-clues.png)
 
 ## Settings
 ### Player option
 
 Shows the lookup option when right clicking another player.
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/HiScore-lookup.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/HiScore-lookup.png)
 
 ### Menu option
 

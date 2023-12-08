@@ -5,9 +5,9 @@ To update your launcher please visit the [RuneLite website](https://runelite.net
 
 The Configure window can be then opened by selecting the `RuneLite (configure)` start menu entry, on Windows, or if using Mac/Linux by passing the command line argument `--configure` to the launcher (e.g. on mac, run `/Applications/RuneLite.app/Contents/MacOS/RuneLite --configure` in Terminal).
 
-![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/RuneLite_Configure_shortcut.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/RuneLite_Configure_shortcut.png)
 
-![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/RuneLite_Launcher_Configuration.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/RuneLite_Launcher_Configuration.png)
 
 The Configuration Window allows all launcher and client arguments to be configured and saved for use on any subsequent launch.
 The configuration is also saved in such a way that when launching RuneLite through the Jagex Launcher they are also applied.

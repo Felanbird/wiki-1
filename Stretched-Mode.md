@@ -1,6 +1,6 @@
 # Stretched Mode Configuration
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Stretched-Mode-example.gif)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Stretched-Mode-example.gif)
 
 ## Settings
 

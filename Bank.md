@@ -1,6 +1,6 @@
 # Bank Configuration
 
-![Client View](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Bank-overview.gif)
+![Client View](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Bank-overview.gif)
 
 ## Settings
 

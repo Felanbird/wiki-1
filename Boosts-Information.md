@@ -1,6 +1,6 @@
 # Boost Information Configuration
 
-![Boost Information](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Boosts-Information-absolute.png)
+![Boost Information](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Boosts-Information-absolute.png)
 ## Settings
 
 ### Display Boosts
@@ -11,13 +11,13 @@ Configures which skill boosts to display.
 
 Displays your boosted stat levels as a measure of how much they are boosted (e.g., +4).
 
-![Relative Boosts](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Boosts-Information-relative.png)
+![Relative Boosts](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Boosts-Information-relative.png)
 
 ### Display as infoboxes.
 
 Displays your boosts as icon boxes rather than a text box.
 
-![Boost indicators](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Boosts-Information-infobox.png)
+![Boost indicators](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Boosts-Information-infobox.png)
 
 ### Display next change
 

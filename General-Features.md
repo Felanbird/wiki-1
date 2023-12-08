@@ -8,14 +8,14 @@ RuneLite incorporates functions such as:
 ## Moving overlays
 It's possible to move overlays and infoboxes by holding the <kbd>Alt</kbd> key and dragging them to a desired position. Whilst dragging blue squares will show fixed positions where they can be locked in.
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/General-Features-moving-overlays.gif)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/General-Features-moving-overlays.gif)
 
 You can reset an overlay's size and position by holding the <kbd>Alt</kbd> key and right-clicking the overlay.
 
 ## Hiding the sidebar
 It's possible to hide the sidebar by pressing the left arrow next to the minimize button. To show the sidebar again press the right arrow. This can also be done using the shortcut keys ctrl+F11.
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/General-Features-sidebar.gif)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/General-Features-sidebar.gif)
 
 ### Profiles
 

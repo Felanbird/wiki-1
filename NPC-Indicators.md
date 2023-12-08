@@ -1,6 +1,6 @@
 # NPC Indicator Configuration
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/NPC-Indicators-example.gif)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/NPC-Indicators-example.gif)
 ## Settings
 
 ### 1. Highlight Style [Off, Tile, Hull]

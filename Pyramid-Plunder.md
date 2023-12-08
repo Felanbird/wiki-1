@@ -1,7 +1,7 @@
 ## Pyramid Plunder Plugin Configuration
 Shows a custom overlay for Pyramid Plunder
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Pyramid-Plunder-example.gif)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Pyramid-Plunder-example.gif)
 
 ## Settings
 ### Hide default timer

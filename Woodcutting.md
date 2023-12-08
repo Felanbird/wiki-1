@@ -2,8 +2,8 @@
 Enables tracking your Woodcutting statistics  
 The plugin will show whether or not you are woodcutting, your total logs cut, and your logs cut per hour  
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Woodcutting-active.png)
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Woodcutting-inactive.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Woodcutting-active.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Woodcutting-inactive.png)
 
 ## Settings
 ### Reset stats (minutes)

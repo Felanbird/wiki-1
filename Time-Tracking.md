@@ -1,6 +1,6 @@
 # Time Tracking Configuration
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Time-Tracking-panel.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Time-Tracking-panel.png)
 
 ## Settings
 

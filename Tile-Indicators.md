@@ -1,8 +1,8 @@
 ## Tile Indicators Configuration
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Tile-Indicators-plugin.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Tile-Indicators-plugin.png)
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Tile-Indicators-example.gif)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Tile-Indicators-example.gif)
 
 
 ## Settings

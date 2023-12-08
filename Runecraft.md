@@ -2,7 +2,7 @@
 
 Displays minimap icons and click boxes for abyssal rift and provides other Runecraft-related features.
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Runecraft-abyss.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Runecraft-abyss.png)
 
 
 ## Settings

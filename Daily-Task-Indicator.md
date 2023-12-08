@@ -2,7 +2,7 @@
 
 Displays chat notification(s) upon login for daily tasks
 
-![A chat window showing normal login text along with a set of notifications regarding daily tasks which can be completed](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Daily-Task-Indicator-example.png)
+![A chat window showing normal login text along with a set of notifications regarding daily tasks which can be completed](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Daily-Task-Indicator-example.png)
 
 ## Settings
 

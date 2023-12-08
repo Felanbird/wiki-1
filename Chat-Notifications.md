@@ -1,7 +1,7 @@
 The Chat Notifications plugin can highlight and send notifications upon certain text appearing in chat messages, even from non-player chat messages.
 
-![chat notifications example 1](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Notifications-example-1.png)
-![chat notifications example 2](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Notifications-example-2.png)
+![chat notifications example 1](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Chat-Notifications-example-1.png)
+![chat notifications example 2](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Chat-Notifications-example-2.png)
 
 ## Settings
 

@@ -1,6 +1,6 @@
 # Special Attack Counter Configuration
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Special-Attack-Counter-example.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Special-Attack-Counter-example.png)
 
 This plugin will track the following special attacks used on any NPC:
 

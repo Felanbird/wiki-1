@@ -2,7 +2,7 @@
 
 Display information about drift nets
 
-![Drift Net plugin overlay](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Drift-Net-overlay.png)
+![Drift Net plugin overlay](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Drift-Net-overlay.png)
 
 ## Settings
 

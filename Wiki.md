@@ -1,5 +1,5 @@
 The Wiki plugin adds a button next to the minimap which allows lookup of items, NPCs, and game objects when clicked. It also has a right-click option to perform a wiki search. Additionally, the plugin adds right-click wiki lookup options to certain dialogs, such as the quest and achievement diary lists.
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Wiki-item-lookup.gif)
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Wiki-quest-link.gif)
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Wiki-search.gif)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Wiki-item-lookup.gif)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Wiki-quest-link.gif)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Wiki-search.gif)

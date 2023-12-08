@@ -1,6 +1,6 @@
 # Item Identification Configuration
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Item-Identification-overlay.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Item-Identification-overlay.png)
 
 The Item Identification plugin overlays herbs, saplings, and seeds with their names (or abbreviations) to help quickly identify them in the bank, inventory, seed vault, and other interfaces.
 

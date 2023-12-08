@@ -1,6 +1,6 @@
 # Low Detail Configuration
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Low-Detail-display.gif)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Low-Detail-display.gif)
 
 ## Settings
 ### Low Detail

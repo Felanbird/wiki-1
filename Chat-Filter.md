@@ -1,6 +1,6 @@
 # Chat Filter Configuration
 
-![Config](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Filter-config.png)
+![Config](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Chat-Filter-config.png)
 
 ## Settings
 
@@ -55,22 +55,22 @@ Collapses repeated game chat messages.
 
 **Disabled:**
 
-![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Filter-disabled-collapse-game.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Chat-Filter-disabled-collapse-game.png)
 
 **Enabled:**
 
-![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Filter-enabled-collapse-game.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Chat-Filter-enabled-collapse-game.png)
 
 ### Collapse Player Chat
 Collapses repeated player chat messages.
 
 **Disabled:**
 
-![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Filter-disabled-collapse-player.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Chat-Filter-disabled-collapse-player.png)
 
 **Enabled:**
 
-![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Filter-enabled-collapse-player.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Chat-Filter-enabled-collapse-player.png)
 
 ### Max repeated public chats:
 Block player chat message if repeated this many times. `0` to disable.

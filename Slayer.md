@@ -4,13 +4,13 @@ The slayer plugin contains options for enhancing your slayer experience
 ## Settings
 ### Count On Items
 When checked, this will add your remaining slayer task amount to slayer helms and gems  
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Slayer-item-counters.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Slayer-item-counters.png)
 
 ### Task Infobox
 When checked, this will display your task in an infobox to the top-left of the game window  
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Slayer-infobox.png) 
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Slayer-infobox.png) 
 Along with a mouse tooltip on hover containing your points and streak  
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Slayer-infobox-tooltip.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Slayer-infobox-tooltip.png)
 
 Note that RuneLite gets the information on your Slayer task when you receive the task or when you check the Slayer gem. RuneLite keeps its own counter for display in the infobox. This also means RuneLite's counter can become out of sync with the real counter, for instance when you make a few kills when not using RuneLite.
 

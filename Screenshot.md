@@ -1,6 +1,6 @@
 # Screenshot Configuration
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Screenshot-button.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Screenshot-button.png)
 
 Enables the screenshot button. The screenshot folder can be accessed by right clicking the screenshot button.
 
@@ -17,7 +17,7 @@ If deselected, the screenshot will only include the game window.
 ### Display Date
 Configures whether the report button will be changed to the current date when taking a screenshot.
 
-![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Screenshot-date.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup/images/img/Screenshot-date.png)
 
 ### Notify When Taken
 RuneLite will send a system notification when a screenshot is taken.
