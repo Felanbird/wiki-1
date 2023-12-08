@@ -1,6 +1,6 @@
 ## Report Button Configuration
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Report-Button-example.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Report-Button-example.png)
 
 ## Settings
 ### Display Options

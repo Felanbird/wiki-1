@@ -1,6 +1,6 @@
 # Fishing Configuration
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Fishing-example-1.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Fishing-example-1.png)
 
 ## Settings
 
@@ -10,29 +10,29 @@ Configures whether fishing spots are only displayed for the fish you are current
 
 #### Disabled
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Fishing-disabled-currenty-fished.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Fishing-disabled-currenty-fished.png)
 
 #### Enabled
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Fishing-enabled-currenty-fished.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Fishing-enabled-currenty-fished.png)
 
 ### Display spot tiles
 
 Configures whether the tiles for fishing spots are highlighted.
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Fishing-spot-tiles.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Fishing-spot-tiles.png)
 
 ### Display spot icons
 
 Configures whether to display an icon for the fish available in the fishing spot.
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Fishing-spot-icons.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Fishing-spot-icons.png)
 
 ### Display spot names
 
 Configures whether names for fishing spots are displayed.
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Fishing-spot-names.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Fishing-spot-names.png)
 
 ### Overlay Color
 
@@ -42,13 +42,13 @@ The color of highlighted fishing tiles.
 
 The color of the Minnows fishing spot overlay when a flying fish appears.
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Fishing-minnow-overlay.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Fishing-minnow-overlay.png)
 
 ### Aerial Overlay Color
 
 Color of the Aerial Fishing overlay when you are close enough to 1 tick catch.
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Fishing-aerial-overlay.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Fishing-aerial-overlay.png)
 
 ### Reset stats
 
@@ -58,7 +58,7 @@ The amount of time until your fishing data is reset and the overlay and infobox 
 
 Displays an infobox with fishing stats.
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Fishing-tracker.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Fishing-tracker.png)
 
 ### Show Minnow Movement overlay
 

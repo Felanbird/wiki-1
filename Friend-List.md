@@ -6,12 +6,12 @@ There are no settings to configure.
 
 ### Enabled
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Friend-List-friends-enabled.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Friend-List-friends-enabled.png)
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Friend-List-ignores-enabled.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Friend-List-ignores-enabled.png)
 
 ### Disabled
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Friend-List-friends-disabled.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Friend-List-friends-disabled.png)
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Friend-List-ignores-disabled.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Friend-List-ignores-disabled.png)

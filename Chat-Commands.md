@@ -29,14 +29,14 @@ Enables the `!price` command.
 
 Format: `!price [item name]`
 
-![Price command](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Commands-price.png)
+![Price command](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Commands-price.png)
 
 ### Level Command
 Enables the `!total` and `!lvl` commands.
 
 Format: `!lvl [skill]`, `!lvl total`, `!total`
 
-![Level command](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Commands-lvl.png)
+![Level command](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Commands-lvl.png)
 
 
 #### Skill Abbreviations
@@ -58,7 +58,7 @@ Enables the `!clues` command.
 
 Format: `!clues`- total clues, `!clues [tier]` (e.g., `!clues easy`)
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Commands-clue.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Commands-clue.png)
 
 ### Killcount Command
 
@@ -66,7 +66,7 @@ Enables the `!kc` command.
 
 Format: `!kc [boss]`, `!kc [activity]`
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Commands-kc.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Commands-kc.png)
 
 #### Boss Abbreviations
 
@@ -136,7 +136,7 @@ Note: if the chat commands for !kc do not work in-game, you first need to open u
 
 Enables the `!qp` command.
 
-![qp command](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Commands-qp.png)
+![qp command](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Commands-qp.png)
 
 
 ### Personal Best Command
@@ -164,13 +164,13 @@ Enables the `!gc` command to show Barbarian Assault High gamble count.
 
 Enables the `!duels` command.
 
-![qp command](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Commands-duels.png)
+![qp command](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Commands-duels.png)
 
 ### Bounty Hunter Command
 
 Enables the `!bh` command.
 
-![qp command](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Commands-bh.png)
+![qp command](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Commands-bh.png)
 
 ### Bounty Hunter Rogue Command
 
@@ -180,7 +180,7 @@ Enables the `!bhrogue` command.
 
 Enables the `!lms` command.
 
-![qp command](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Commands-lms.png)
+![qp command](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Commands-lms.png)
 
 ### Clear Single Word
 

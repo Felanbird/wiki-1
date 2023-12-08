@@ -2,19 +2,19 @@
 ### Display elapsed raid time
 Displaying the elapsed raid time will result in a small infobox being shown on screen that tracks the current time spent in the raid. Hovering over it will display how long the floors have taken.
 
-![Raid timer](https://raw.githubusercontent.com/runelite/wiki/master/img/Chambers-of-Xeric-time-infobox.png)
+![Raid timer](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chambers-of-Xeric-time-infobox.png)
 
 ### Display points in chatbox after raid
 Displaying the detailed message after a raid will result in the following message being shown:
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Chambers-of-Xeric-points.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chambers-of-Xeric-points.png)
 
 This calculates your points participation percentage and displays the total and personal points in the chatbox.
 
 ### Show scout overlay
 Showing the scout overlay will enable the use of the raids scouter that will aid you while scouting your raid.
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Chambers-of-Xeric-scout-overlay.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chambers-of-Xeric-scout-overlay.png)
 
 Enabling the scout overlay outside lobby will allow you to leave the lobby (if you need to bank, for example) and have the overlay still active.
 

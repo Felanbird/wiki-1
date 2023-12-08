@@ -1,6 +1,6 @@
 The Blast Mine plugin draws overlays over rocks to show their next mining step, draws an explosion timer and radius overlay, and replaces the official blast mine overlay with a tidier Runelite overlay
 
-![blast mine plugin features being displayed](https://raw.githubusercontent.com/runelite/wiki/master/img/Blast-Mine-overlay.png)
+![blast mine plugin features being displayed](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Blast-Mine-overlay.png)
 
 ## Settings
 

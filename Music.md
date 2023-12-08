@@ -1,11 +1,11 @@
 # Music Plugin Configuration
 Adds search and filter for the music list
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Music-filter.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Music-filter.png)
 
 The plugin will also allow you to control the in-game volume with more granularity.
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Music-granular-sliders.gif)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Music-granular-sliders.gif)
 ## Usage
 
 Clicking on the status button will cycle through displaying unlocked, locked, and all music tracks. Clicking on the search button will open a search dialog which will filter the visible music tracks based on the input.

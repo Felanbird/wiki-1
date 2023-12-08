@@ -4,7 +4,7 @@ Shows how many points currently in inventory if they were fed into the burning b
 
 Also shows how man kindling are in the inventory as well as maximum possible if all logs were fletched into kindling.
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Wintertodt-overlay.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Wintertodt-overlay.png)
 
 Window will show current status as IDLE, Woodcutting, Fletching, Feeding, Fixing, and Lighting depending on what the player is doing. IDLE will turn the status red. If any points are in the inventory then the points will be green, otherwise they are red.
 
@@ -14,7 +14,7 @@ Window will show current status as IDLE, Woodcutting, Fletching, Feeding, Fixing
 
 This is when you are notified. Options are as follows
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Wintertodt-notify-options.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Wintertodt-notify-options.png)
 
 None will never notify you.
 Damage taken will notify on any damage regardless of if you are interrupted like when you are chopping bruma logs.
@@ -25,6 +25,6 @@ Both is simply the two above options at the same time.
 
 This is the color that is used for all Wintertodt in-game messages that involve damage.
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Wintertodt-damage-color.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Wintertodt-damage-color.png)
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Wintertodt-chat-color.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Wintertodt-chat-color.png)

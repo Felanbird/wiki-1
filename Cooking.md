@@ -1,6 +1,6 @@
 The Cooking plugin adds overlays to track your session cooking stats and to display a countdown to wine fermentation when making wines.
 
-![Cooking plugin session overlay](https://raw.githubusercontent.com/runelite/wiki/master/img/Cooking-tracker.png) ![Wine fermentation timer overlay](https://raw.githubusercontent.com/runelite/wiki/master/img/Cooking-wine-timer.jfif)
+![Cooking plugin session overlay](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Cooking-tracker.png) ![Wine fermentation timer overlay](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Cooking-wine-timer.jfif)
 
 ## Settings
 

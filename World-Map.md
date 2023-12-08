@@ -1,6 +1,6 @@
 The World Map plugin adds a number of teleport location icons to the world map along with expanding some icon tooltips to give more information.
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/World-Map-example.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/World-Map-example.png)
 
 ## Settings
 

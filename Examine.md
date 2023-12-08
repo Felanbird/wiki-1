@@ -2,7 +2,7 @@
 
 Indicates the average GE and high-alch values of an item when examined
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Examine-display.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Examine-display.png)
 
 ## Settings
 

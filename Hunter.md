@@ -1,6 +1,6 @@
 # Hunter Configuration
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Hunter-overlay.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Hunter-overlay.png)
 
 ## Settings
 

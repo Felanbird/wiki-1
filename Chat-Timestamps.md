@@ -1,6 +1,6 @@
 The Chat Timestamps plugin prepends a timestamp to chat messages you receive.
 
-![Timestamps prepended to chat messages through the Chat Timestamps plugin](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Timestamps-example.png)
+![Timestamps prepended to chat messages through the Chat Timestamps plugin](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Timestamps-example.png)
 
 ## Settings
 

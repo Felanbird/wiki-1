@@ -2,7 +2,7 @@
 
 Display the type and number of runes in your rune pouch as an overlay on the item, and also in a tooltip.
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Rune-Pouch-example.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Rune-Pouch-example.png)
 
 ## Options
 

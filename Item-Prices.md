@@ -1,6 +1,6 @@
 # Item Prices Configuration
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Item-Prices-display.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Item-Prices-display.png)
 
 Show High Alch and average grand exchange prices on hover for items in your inventory and bank
 

@@ -8,7 +8,7 @@ Enables `Press Enter to Chat...` mode in the chat box, preventing text input unl
 
 Configures whether the camera movement uses remapped keys. By default, the keys get remapped to WASD, but they can be reconfigured.
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Key-Remapping-camera.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Key-Remapping-camera.png)
 
 ## F Key Remapping
 
@@ -16,7 +16,7 @@ Configures whether the camera movement uses remapped keys. By default, the keys 
 
 Configures whether the F-Keys use remapped keys. 
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Key-Remapping-fkeys.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Key-Remapping-fkeys.png)
 
 ## Other
 

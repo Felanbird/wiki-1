@@ -1,5 +1,5 @@
 # Login Screen Configuration
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Login-Screen-screen.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Login-Screen-screen.png)
 
 ## Settings
 ### Ctrl-V Paste

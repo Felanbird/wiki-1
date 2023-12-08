@@ -6,11 +6,11 @@ Each chat type listed below can have its color changed. If needed, you can reset
 
 The chat type (`Opaque` or `Transparent`) is determined by the **Vanilla OSRS** setting (not RuneLite) under `Advanced Options` in the `Options` tab:
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Color-transparent-chat-jagex-setting.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Color-transparent-chat-jagex-setting.png)
 
 ## Opaque
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Color-opaque.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Color-opaque.png)
 
 ##### Public chat
 ##### Public chat highlight
@@ -43,7 +43,7 @@ The chat type (`Opaque` or `Transparent`) is determined by the **Vanilla OSRS** 
 
 ## Transparent
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Color-transparent.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Chat-Color-transparent.png)
 
 ##### Public chat (transparent)
 ##### Public chat highlight (transparent)

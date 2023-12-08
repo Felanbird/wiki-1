@@ -15,7 +15,7 @@ Try [disabling Hardware Acceleration](https://github.com/runelite/runelite/wiki/
 ## I meet the **ALL** the requirements, but it still won't turn on or is very laggy?
 If you have a Nvidia GPU, make sure you are using the 32 or 64 bit version of RuneLite, not the For All Platforms Version. Then go into NVIDIA Control Panel -> Manage 3D settings -> Program settings. Click Add and find RuneLite on the list, add it. In the lower section, find the OpenGL rendering GPU option, and set it to your NVIDIA GPU. When finished, it should look something like this:
 
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/GPUFAQ-nvidia-settings.png)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/GPUFAQ-nvidia-settings.png)
 
 ## When I turn on Anti Aliasing weird lines appear
 If you have an AMD graphics card, roll back the driver to version 18.12.1

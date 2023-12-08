@@ -2,7 +2,7 @@
 
 Off | On
 :--------------------------------:|:--------------------------------:
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Animation-Smoothing-off.gif) | ![](https://raw.githubusercontent.com/runelite/wiki/master/img/Animation-Smoothing-on.gif)
+![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Animation-Smoothing-off.gif) | ![](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Animation-Smoothing-on.gif)
 
 ## Animation Smoothing
 Each of these options can be disabled individually by unchecking the respective box.

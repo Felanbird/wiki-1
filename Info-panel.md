@@ -6,4 +6,4 @@ The Info panel shows various information such as:
 * Login status (Cloud sync settings status)
 * A link to report an issue on GitHub  
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Info-panel.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Info-panel.png)

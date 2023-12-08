@@ -6,12 +6,12 @@ Removing a marked tiles follows the same principle, shift right click the tile a
 
 Marked tiles can also be labeled by shift right clicking the desired previously marked tile.
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Ground-Markers-label.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Ground-Markers-label.png)
 
 The plugin also remembers which tiles you have marked between sessions.
 
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Ground-Markers-mark.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Ground-Markers-mark.png)
 
 
 
@@ -19,13 +19,13 @@ The plugin also remembers which tiles you have marked between sessions.
 ## Settings
 ---
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Ground-Markers-settings.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Ground-Markers-settings.png)
 
 ### Border width
 In pixels.
 ### Draw tiles on the minimap
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Ground-Markers-minimap.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Ground-Markers-minimap.png)
 
 ### Fill Opacity
 Makes marked tiles darker. 0 (fully transparent) - 255 (fully opaque).
@@ -40,7 +40,7 @@ The color of the ground markers. Supports transparency.
 ---
 Right-click the World Map orb by the minimap to import or export ground markers. Importing will check your system clipboard for a ground marker import string. Exporting will copy the ground markers in the area around you to the system clipboard.
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Ground-Markers-import.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Ground-Markers-import.png)
 
 Ground marker import strings look like this: `[{"regionId":12850,"regionX":22,"regionY":19,"z":0,"color":"#FF000000"},{"regionId":12850,"regionX":21,"regionY":19,"z":0,"color":"#FFDC8700"}]`.
 

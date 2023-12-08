@@ -1,6 +1,6 @@
 # Camera Configuration
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Camera-overwiew.gif)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Camera-overwiew.gif)
 
 ## Camera
 ### Expand Inner Zoom Limit
@@ -33,7 +33,7 @@ Middle-mouse button always opens the menu.
 
 Adds Look South, East, and West to the compass' right-click menu.
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Camera-compass.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Camera-compass.png)
 
 ### Invert Yaw
 

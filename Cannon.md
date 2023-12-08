@@ -1,6 +1,6 @@
 # Cannon Configuration
 
-![Cannon-overview](https://raw.githubusercontent.com/runelite/wiki/master/img/Cannon-overview.gif)
+![Cannon-overview](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Cannon-overview.gif)
 
 ## Settings
 

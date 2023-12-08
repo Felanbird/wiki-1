@@ -1,7 +1,7 @@
 The World Hopper plugin adds a sidebar panel listing all the Oldschool Runescape worlds, their regions, their activities, and their populations. Double-clicking any of the world entries will trigger a world hop to that world. In addition, this plugin adds a "Hop-to" menu option to the Friend's List and Clan Chat for players on other worlds. It also adds quick-hop shortcuts to hop to the next and previous worlds in the world list.
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/World-Hopper-clan-hop-to.png)
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/World-Hopper-friend-hop-to.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/World-Hopper-clan-hop-to.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/World-Hopper-friend-hop-to.png)
 
 ## Settings
 
@@ -21,4 +21,4 @@ Toggles whether to hop to a PVP/high risk world when quick-hopping
 
 Toggles whether the world hopper panel should be added to the sidebar
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/World-Hopper-sidebar.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/World-Hopper-sidebar.png)

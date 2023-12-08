@@ -1,6 +1,6 @@
 # Implings Configuration
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Implings-overlay.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Implings-overlay.png)
 
 The Implings plugin can highlight nearby implings on the minimap and on-screen, as well as be configured to send a notification when selected implings come into view.
 

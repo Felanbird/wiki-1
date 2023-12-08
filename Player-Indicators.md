@@ -1,12 +1,12 @@
 # Player Indicators Configuration
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Player-Indicators-example.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Player-Indicators-example.png)
 
 Highlight players on-screen and/or on the minimap.
 
 ## Settings
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Player-Indicators-config.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Player-Indicators-config.png)
 
 ### Draw tiles under players
 

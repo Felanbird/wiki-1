@@ -2,7 +2,7 @@
 
 The Ground Items plugin highlights ground items and/or displays their Grand Exchange or High Alchemy information
 
-![Ground items demonstration](https://raw.githubusercontent.com/runelite/wiki/master/img/Ground-Items-overlay.png)
+![Ground items demonstration](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Ground-Items-overlay.png)
 
 ## Item Lists
 
@@ -132,6 +132,6 @@ Collapses ground item menu entries together and appends count.
 
 ### Show despawn timers
 
-Shows a green timer ![Green Timer](https://raw.githubusercontent.com/runelite/wiki/master/img/Ground-Items-green-timer.png) that counts down until items dropped or received as loot are visible to other players.
+Shows a green timer ![Green Timer](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Ground-Items-green-timer.png) that counts down until items dropped or received as loot are visible to other players.
 
-Shows a yellow timer ![Yellow Timer](https://raw.githubusercontent.com/runelite/wiki/master/img/Ground-Items-yellow-timer.png) that counts down until items dropped or received as loot despawn.
+Shows a yellow timer ![Yellow Timer](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Ground-Items-yellow-timer.png) that counts down until items dropped or received as loot despawn.

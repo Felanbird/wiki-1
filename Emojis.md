@@ -1,4 +1,4 @@
-![Emojis displaying in the game chat panel](https://raw.githubusercontent.com/runelite/wiki/master/img/Emojis-example.png)
+![Emojis displaying in the game chat panel](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Emojis-example.png)
 
 Substitutes typed emoticons to display emojis in the game chat panel and above players' heads.
 

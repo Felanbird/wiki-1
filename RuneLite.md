@@ -1,6 +1,6 @@
 # RuneLite Configuration
 
-![image](https://raw.githubusercontent.com/runelite/wiki/master/img/RuneLite-config.png)
+![image](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/RuneLite-config.png)
 ## Window Settings
 
 ### Game size

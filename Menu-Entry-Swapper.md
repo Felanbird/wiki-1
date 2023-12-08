@@ -8,7 +8,7 @@ Enables you to change the default left-click and shift-click options that are di
 
 Hold the shift key and right-click the item to set its left- or shift-left-click options.
 
-![inventory item option configuration](https://raw.githubusercontent.com/runelite/wiki/master/img/Menu-Entry-Swapper-shift-click.gif)
+![inventory item option configuration](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Menu-Entry-Swapper-shift-click.gif)
 ### Bury
 
 Swap `Bury` with `Use` on Bones.
@@ -65,7 +65,7 @@ Swap `Talk-to` with `Travel`, `Take boat`, `Pay-fare`, `Charter` (e.g., Squire, 
 
 Objects with multiple options can have another option selected as the left-click option by holding Shift and selecting the "Swap" menu option that appears. Once this is done, a chat message will be printed that shows the new left-click option of that object.
 
-![object left-click swap](https://raw.githubusercontent.com/runelite/wiki/master/img/Menu-Entry-Swapper-objects.gif)
+![object left-click swap](https://raw.githubusercontent.com/felanbird/wiki-1/cleanup-images/img/Menu-Entry-Swapper-objects.gif)
 
 
 ### Admire
