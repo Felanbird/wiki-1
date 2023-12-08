@@ -3,7 +3,7 @@
 The RuneLite Launcher Configuration window was added in launcher version 2.6.3, released March 5, 2023.
 To update your launcher please visit the [RuneLite website](https://runelite.net/) and select to download the setup file for your Operating System then install the launcher using that.
 
-The Configure window can be then opened by selecting the `RuneLite (configure)` start menu entry, on Windows, or if using Mac/Linux by passing the command line argument `--configure` to the launcher
+The Configure window can be then opened by selecting the `RuneLite (configure)` start menu entry, on Windows, or if using Mac/Linux by passing the command line argument `--configure` to the launcher (e.g. on mac, run `/Applications/RuneLite.app/Contents/MacOS/RuneLite --configure` in Terminal).
 
 ![](https://raw.githubusercontent.com/runelite/wiki/master/img/RuneLite_Configure_shortcut.png)
 
@@ -49,14 +49,16 @@ Launches the client in safe mode.  This disables loading of plugins installed fr
 cli: `--safe-mode`
 
 ### Client arguments
-Various optional arguments passed to the client. One per line.
+Optional arguments passed to the client. One per line.
 
 A popular client argument being `profile` to load a specific settings profile on launch.
-The profile arg can be supplied with a profile name such as `profile=ironman` to load on client launch the settings profile named "ironman".
+The profile arg can be supplied with a profile name such as `--profile=ironman` to load on client launch the settings profile named "ironman".
 
 cli: `--profile=<profile_name>`
 ### JVM arguments
-Various optional arguments passed to the JVM. One per line.
+Optional arguments passed to the JVM. One per line.
+
+This is commonly used to increase the max heap size (the memory limit). This can be done via the `-Xmx` option, for example use `-Xmx1536M` to double the clients available heap size. Some 3rd party plugins use an unbounded amount of memory, and increasing the max heap size only increases the time until the client crashes. In this case, you will likely need to remove the bad plugin(s).
 
 ### Scale
 Scaling factor for Java 2D.  For use overriding scaling performed by your Operating System.

@@ -22,8 +22,7 @@ Current commands include:
 * `!pets`
 
 # Settings
-
-![](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Commands-config.png)
+![Settings](https://github.com/runelite/wiki/assets/41973452/76ddaaf1-6e47-45bb-b369-de6440c6c943)
 
 ### Price Command
 Enables the `!price` command.
@@ -130,6 +129,8 @@ Note: if the chat commands for !kc do not work in-game, you first need to open u
 `wildy`, `wildy agility` -> `Wilderness Agility`  
 `prif`, `prifddinas` -> `Prifddinas Agility Course`    
 `hs`, `hs [1-5]`, `ghc` -> `Hallowed Sepulchre`  
+`shayb`, `sbac`, `shayzienbasic`, `shayzien basic` -> `Shayzien Basic Agility Course`
+`shaya`, `saac`, `shayadv`, `shayadvanced`, `shayzien advanced` -> `Shayzien Advanced Agility Course`
 
 ### Quest Points Commands
 
