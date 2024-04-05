@@ -1,6 +1,6 @@
 # Camera Configuration
 
-[![Client View](https://thumbs.gfycat.com/RipeCraftyBison-size_restricted.gif)](https://gfycat.com/RipeCraftyBison)
+![](img/camera/camera_overview.webm)
 
 ## Camera
 ### Expand Inner Zoom Limit
