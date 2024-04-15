@@ -195,7 +195,7 @@ Enables the `!qp` command.
 Enables the `!pb` command.
 
 Personal best times are stored for bosses and activities that keep personal best data in game. If applicable, you can pull these numbers from an Adventure Log's "Counters" section in your POH.  
-For potential shorthand versions, please refer to the aliases listed above.
+For potential shorthand versions, refer to the aliases listed [above](#boss-abbreviations).
 
 Examples include:  
 `!pb zulrah`  
